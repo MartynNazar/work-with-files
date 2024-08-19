@@ -4,6 +4,9 @@ with open("bd (1).json", 'r', encoding="utf-8") as file:
     data = json.load(file)
     print(data)
 
+
+
+
 name = input("Введіть імя учня")
 s = 0
 count = 0
